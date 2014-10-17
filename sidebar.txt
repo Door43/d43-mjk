@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mjk:home|Door43 (mjk)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mjk|d43-mjk repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mjk/archive/master.zip|d43-mjk.zip]]
+
+**Recent Changes**
+{{changes>ns = mjk}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mjk|Ethnologue data]]
+
